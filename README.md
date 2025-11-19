@@ -63,4 +63,12 @@ Note:
 The CDC SVI dataset (SVI_2022_US.csv) must be downloaded manually from the CDC website and placed in the data/ folder.
 
 ------------------------------------------------------------------------------------------------------------------------
+###  Data Sources
+| Dataset | Source |
+|--------|--------|
+| Wildfire Perimeters | CAL FIRE (https://gis.data.cnra.ca.gov) |
+| Census Tracts | US Census TIGER/Line 2023 |
+| Social Vulnerability Index | CDC SVI 2022 |
+| Fire Stations | USGS Structures Dataset |
+
 
