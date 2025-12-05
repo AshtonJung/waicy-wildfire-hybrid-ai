@@ -71,4 +71,8 @@ The CDC SVI dataset (SVI_2022_US.csv) must be downloaded manually from the CDC w
 | Social Vulnerability Index | CDC SVI 2022 |
 | Fire Stations | USGS Structures Dataset |
 
+## 📺 WAICY Presentation Video (Unlisted)
+Click the thumbnail below to watch the full project walkthrough:
+https://youtu.be/79ceoTbB_8o 
+
 
